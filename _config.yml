@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Spill Ink
 description: Thoughts, thoughts, thoughts
+repository: spillink/spillink.github.io
+github: [metadata]
+plugins:
+  - "jekyll-github-metadata"
