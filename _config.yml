@@ -1,7 +1,11 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: Spill Ink
+author: JJ
+email: jaewon.jo5@gmail.com
 description: Thoughts, thoughts, thoughts
 repository: spillink/spillink.github.io
 github: [metadata]
+github_username: spillink
+
 plugins:
   - "jekyll-github-metadata"
